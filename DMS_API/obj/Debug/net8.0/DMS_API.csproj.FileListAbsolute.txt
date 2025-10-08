@@ -1,0 +1,105 @@
+D:\Wai Working\School\DMS_API\DMS_API\bin\Debug\net8.0\appsettings.Development.json
+D:\Wai Working\School\DMS_API\DMS_API\bin\Debug\net8.0\appsettings.json
+D:\Wai Working\School\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.staticwebassets.endpoints.json
+D:\Wai Working\School\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.exe
+D:\Wai Working\School\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.deps.json
+D:\Wai Working\School\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.runtimeconfig.json
+D:\Wai Working\School\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.dll
+D:\Wai Working\School\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.pdb
+D:\Wai Working\School\DMS_API\DMS_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Wai Working\School\DMS_API\DMS_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Wai Working\School\DMS_API\DMS_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Wai Working\School\DMS_API\DMS_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.csproj.AssemblyReference.cache
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.AssemblyInfoInputs.cache
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.AssemblyInfo.cs
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.csproj.CoreCompileInputs.cache
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.MvcApplicationPartsAssemblyInfo.cs
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.MvcApplicationPartsAssemblyInfo.cache
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\scopedcss\bundle\DMS_API.styles.css
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.csproj.Up2Date
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.dll
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\refint\DMS_API.dll
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.pdb
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.genruntimeconfig.cache
+D:\Wai Working\School\DMS_API\DMS_API\obj\Debug\net8.0\ref\DMS_API.dll
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\bin\Debug\net8.0\appsettings.Development.json
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\bin\Debug\net8.0\appsettings.json
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.staticwebassets.endpoints.json
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.exe
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.deps.json
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.runtimeconfig.json
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.dll
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.pdb
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.csproj.AssemblyReference.cache
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.AssemblyInfoInputs.cache
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.AssemblyInfo.cs
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.csproj.CoreCompileInputs.cache
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\scopedcss\bundle\DMS_API.styles.css
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.csproj.Up2Date
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.dll
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\refint\DMS_API.dll
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.pdb
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.genruntimeconfig.cache
+C:\Wai Working\School\Final Year Project\DMS_API\DMS_API\obj\Debug\net8.0\ref\DMS_API.dll
+D:\My School\DMS_API\DMS_API\bin\Debug\net8.0\appsettings.Development.json
+D:\My School\DMS_API\DMS_API\bin\Debug\net8.0\appsettings.json
+D:\My School\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.staticwebassets.endpoints.json
+D:\My School\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.exe
+D:\My School\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.deps.json
+D:\My School\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.runtimeconfig.json
+D:\My School\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.dll
+D:\My School\DMS_API\DMS_API\bin\Debug\net8.0\DMS_API.pdb
+D:\My School\DMS_API\DMS_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\My School\DMS_API\DMS_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My School\DMS_API\DMS_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My School\DMS_API\DMS_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.csproj.AssemblyReference.cache
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.AssemblyInfoInputs.cache
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.AssemblyInfo.cs
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.csproj.CoreCompileInputs.cache
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.MvcApplicationPartsAssemblyInfo.cs
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.MvcApplicationPartsAssemblyInfo.cache
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\scopedcss\bundle\DMS_API.styles.css
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.build.json
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.development.json
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.csproj.Up2Date
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.dll
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\refint\DMS_API.dll
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.pdb
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\DMS_API.genruntimeconfig.cache
+D:\My School\DMS_API\DMS_API\obj\Debug\net8.0\ref\DMS_API.dll
